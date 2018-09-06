@@ -27,5 +27,7 @@ https://guides.github.com/activities/hello-world/
 https://guides.github.com/features/mastering-markdown/
 
 
+##### Updates
+Ongoing as this project evolves
 
 Let's do this :muscle:
